@@ -59,4 +59,8 @@
   <img src="https://profile-counter.glitch.me/developerreva/count.svg?"  />
 </div>
 
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=kli09xgbbkil2q35z8zq4stcq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=622693&bar_color_cover=false?theme=dark&spin=false" alt="Widget with the current Spotify song"  />
+</div>
+
 ###
